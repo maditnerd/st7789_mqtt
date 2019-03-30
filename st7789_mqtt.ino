@@ -47,7 +47,7 @@ void setup(void) {
 void notificationCallBack(char *data, uint16_t len){
       tft.pushImage(0,0,240,240,notifications);
       Serial.println(data);
-      tft.setCursor(0,50); //Set text cursor to 0,25
+      tft.setCursor(0,50); //Set text cursor to 0,50
       tft.println(data); //Print text
 }
 
