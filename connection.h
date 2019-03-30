@@ -7,6 +7,9 @@
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
 
+//Download openssl for windows here : https://slproweb.com/products/Win32OpenSSL.html
+//openssl s_client -showcerts -connect io.adafruit.com:8883
+//Use last certificate !
 //Adafruit IO Certificate
 const char digicert[] = R"EOF(
 -----BEGIN CERTIFICATE-----
