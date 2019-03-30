@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="240"
+   height="240"
+   viewBox="0 0 63.5 63.5"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="wifi.svg"
+   inkscape:export-filename="D:\Drive\usini\projets\st7789_iftt\Images\wifi.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="119.33246"
+     inkscape:cy="83.872199"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-233.5)">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect882"
+       width="63.743782"
+       height="64.011047"
+       x="-0.13363479"
+       y="233.38985" />
+    <path
+       style="fill:#55d400;stroke:none;stroke-width:0.22113021"
+       inkscape:connector-curvature="0"
+       d="m 35.683875,281.17978 c 0.0028,-1.258 -0.485159,-2.5054 -1.321695,-3.31894 -1.589705,-1.54747 -4.075872,-1.41833 -5.553243,0.27464 -0.723317,0.8288 -1.070713,1.97647 -1.066954,3.01644 v 0 c -0.0038,1.03843 0.343858,2.0229 1.066954,2.85148 1.477371,1.69253 3.963317,1.82145 5.553243,0.27486 0.836315,-0.81443 1.324349,-1.83958 1.321695,-3.09848"
+       id="path853" />
+    <path
+       style="fill:#44aa00;stroke:none;stroke-width:0.22113021;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       stroke-miterlimit="10"
+       d="m 21.837364,272.90244 c 1.440221,-1.43248 2.975971,-2.66551 4.766683,-3.5801 2.78602,-1.4243 5.660713,-1.76551 8.636905,-0.75737 1.858599,0.62956 3.475061,1.70469 4.939606,3.0443 0.522531,0.47764 1.016315,0.99 1.534202,1.49727 -1.310418,1.32103 -2.584791,2.6047 -3.877518,3.90671 -0.05705,-0.0723 -0.09022,-0.12096 -0.130246,-0.1643 -0.783464,-0.83499 -1.621548,-1.59855 -2.581695,-2.204 -1.601868,-1.01146 -3.289755,-1.35266 -5.10258,-0.73991 -1.134177,0.38366 -2.141868,1.01345 -3.074373,1.77899 -0.535578,0.43917 -1.043736,0.9157 -1.574006,1.38384 -1.21312,-1.33231 -2.43022,-2.66882 -3.662579,-4.0228 0.04887,-0.0559 0.09685,-0.11499 0.125601,-0.14263 z"
+       id="path855" />
+    <path
+       style="fill:#338000;stroke:none;stroke-width:0.22113021;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       stroke-miterlimit="10"
+       d="m 14.546038,266.67431 c 0.07938,-0.0575 0.137543,-0.0911 0.186413,-0.13512 1.114496,-1.00526 2.195159,-2.05584 3.349017,-3.00803 2.350614,-1.93843 4.911744,-3.49408 7.757911,-4.49337 2.782924,-0.97629 5.628206,-1.29449 8.534521,-0.84449 2.473341,0.38189 4.775307,1.29207 6.944152,2.58921 2.164644,1.29428 4.098649,2.90698 5.893563,4.71361 0.41285,0.41595 0.818845,0.84251 1.239214,1.27549 -1.309976,1.3197 -2.584128,2.60336 -3.880173,3.90825 -0.05529,-0.073 -0.08735,-0.12317 -0.126485,-0.16563 -1.683907,-1.82852 -3.506462,-3.47617 -5.606758,-4.76049 -1.947273,-1.1899 -4.021253,-1.97315 -6.281425,-2.12374 -1.828747,-0.12162 -3.601105,0.19172 -5.324594,0.83764 -2.089238,0.78391 -3.981671,1.94816 -5.727494,3.37003 -1.114939,0.90819 -2.173931,1.89155 -3.287985,2.86696 -1.191671,-1.30799 -2.412088,-2.6487 -3.669877,-4.03032 z"
+       id="path857" />
+    <path
+       style="fill:#338000;stroke:none;stroke-width:0.22113021;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       stroke-miterlimit="10"
+       d="m 32.631836,247.95696 c 0.31312,0.0303 0.626241,0.0661 0.939361,0.0918 3.84656,0.30825 7.413391,1.56958 10.77656,3.51619 3.795037,2.19737 7.070197,5.09506 10.07226,8.35519 0.06612,0.071 0.144178,0.13046 0.216487,0.19525 0,0.017 0,0.0345 0,0.0513 -0.04445,0.0336 -0.09332,0.0628 -0.132235,0.10283 -1.150099,1.15717 -2.298649,2.31589 -3.447863,3.47307 -0.09199,0.0924 -0.186192,0.18199 -0.250541,0.24391 -1.067174,-1.05259 -2.090344,-2.11467 -3.166142,-3.11351 -2.335356,-2.16907 -4.873489,-4.02369 -7.726511,-5.36883 -2.284276,-1.07713 -4.667395,-1.74936 -7.170369,-1.89531 -2.588329,-0.1508 -5.106338,0.25873 -7.559115,1.13109 -2.834447,1.00724 -5.41769,2.52287 -7.851671,4.33636 -1.910785,1.42363 -3.696855,3.00627 -5.394249,4.70189 -0.109018,0.10857 -0.223785,0.21118 -0.342973,0.32396 -1.235897,-1.3573 -2.4521137,-2.69337 -3.697298,-4.06084 0.085799,-0.0715 0.1516954,-0.12096 0.212285,-0.1769 1.3707863,-1.25536 2.705749,-2.55737 4.119435,-3.75701 2.956953,-2.50938 6.162457,-4.59906 9.701204,-6.0855 2.520221,-1.05877 5.124029,-1.75732 7.837739,-1.96961 0.33855,-0.0263 0.675995,-0.0634 1.013882,-0.0951 0.616732,-2.2e-4 1.233465,-2.2e-4 1.849754,-2.2e-4 z"
+       id="path859" />
+    <rect
+       style="opacity:1;fill:#483737;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.54602575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect880"
+       width="53.854809"
+       height="9.4880676"
+       x="4.2763128"
+       y="236.19618" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.35154057px;line-height:1.25;font-family:Brandish;-inkscape-font-specification:Brandish;letter-spacing:0px;word-spacing:0px;fill:#44aa00;fill-opacity:1;stroke:none;stroke-width:0.44740397"
+       x="22.957817"
+       y="293.5256"
+       id="text817"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="22.957817"
+         y="293.5256"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Brandish;-inkscape-font-specification:Brandish;fill:#44aa00;fill-opacity:1;stroke-width:0.44740397">WIFI</tspan></text>
+  </g>
+</svg>
